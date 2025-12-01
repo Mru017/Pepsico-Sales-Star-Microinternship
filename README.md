@@ -55,5 +55,9 @@ This study provided actionable insights on:
 - Challenges faced at the last-mile retail level
 - These findings support better execution planning and market expansion strategies for PepsiCo in small-city retail environments.
 
+## 📈 Interactive Tableau Dashboard
+I created a dynamic dashboard to allow stakeholders to explore the sales data and filter by region, product, and timeline.
+[![Tableau Dashboard Preview](dashboard.png)](LINK_TO_YOUR_TABLEAU_PUBLIC_DASHBOARD)
+
 ## Certification 
 ![Certificate](https://github.com/Mru017/Pepsico-Sales-Star-Microinternship/blob/main/Pepsale%20Certificate.jpg)
