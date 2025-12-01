@@ -1,5 +1,6 @@
 # PepsiCo Sales Star Micro-Internship – Analytics Project
 
+![Pepsale](https://github.com/Mru017/Pepsico-Sales-Star-Microinternship/blob/main/Logo.png)
 ## Retail Market Execution Study – Yavatmal, Maharashtra
 
 - This repository documents the work completed during my PepsiCo Sales Star Micro-Internship, where I conducted an on-ground retail market study across 25 stores in Yavatmal, Maharashtra.
