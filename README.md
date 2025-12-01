@@ -57,7 +57,8 @@ This study provided actionable insights on:
 
 ## 📈 Interactive Tableau Dashboard
 I created a dynamic dashboard to allow stakeholders to explore the sales data and filter by region, product, and timeline.
-[![Tableau Dashboard Preview](dashboard.png)](LINK_TO_YOUR_TABLEAU_PUBLIC_DASHBOARD)
+
+![Tableau Dashboard Preview](dashboard.png)](LINK_TO_YOUR_TABLEAU_PUBLIC_DASHBOARD)
 
 ## Certification 
 ![Certificate](https://github.com/Mru017/Pepsico-Sales-Star-Microinternship/blob/main/Pepsale%20Certificate.jpg)
