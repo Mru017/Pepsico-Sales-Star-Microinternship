@@ -1,12 +1,5 @@
 # PepsiCo Sales Star Micro-Internship – Analytics Project
 
-```html
-<div align="center">
-  <a href="yavatmal_map.png">
-     <img src="[yavatmal_map.png](https://github.com/Mru017/Pepsico-Sales-Star-Microinternship/blob/main/Logo.png)" alt="Click to expand map" width="600">
-  </a>
-</div>
-```
 ![Pepsale](https://github.com/Mru017/Pepsico-Sales-Star-Microinternship/blob/main/Logo.png)
 ## Retail Market Execution Study – Yavatmal, Maharashtra
 
@@ -43,6 +36,8 @@ I collected firsthand insights through direct store observation, owner conversat
 - Visual audits & manual data logging
 - Store owner interviews
 - Comparative display analysis
+
+
 
 ## Insights & Findings
 
