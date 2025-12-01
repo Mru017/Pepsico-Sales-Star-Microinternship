@@ -37,7 +37,7 @@ I collected firsthand insights through direct store observation, owner conversat
 - Store owner interviews
 - Comparative display analysis
 
-
+![visited location](https://github.com/Mru017/Pepsico-Sales-Star-Microinternship/blob/main/Visited%20location.png)
 
 ## Insights & Findings
 
