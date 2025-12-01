@@ -52,3 +52,6 @@ This study provided actionable insights on:
 - How competition is positioning their products
 - Challenges faced at the last-mile retail level
 - These findings support better execution planning and market expansion strategies for PepsiCo in small-city retail environments.
+
+## Certification 
+![Certificate](https://github.com/Mru017/Pepsico-Sales-Star-Microinternship/blob/main/Pepsale%20Certificate.jpg)
